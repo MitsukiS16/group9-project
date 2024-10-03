@@ -34,7 +34,7 @@ Projects for the RD course unit at FCUP.
 
 | Name                                | Up Number | Git                                         |
 | ----------------------------------- | --------- | ------------------------------------------- |
-| Ana Sofia Silva Pinto | 202004606 | [thefenixpt](https://github.com](https://github.com/thefenixpt)   |
+| Ana Sofia Silva Pinto | 202004606 | [thefenixpt](https://github.com/thefenixpt) |
 | Clarisse Maria Teixeira de Carvalho | 202008444 | [MitsukiS16](https://github.com/MitsukiS16) |
 | Tiago Miguel dos Santos Aleixo | 202004996 | [itsnova204](https://github.com/itsnova204)   |
 
