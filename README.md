@@ -1,6 +1,6 @@
 # group9-project
 
-Projects for the RD course unit at FCUP.
+Projects for the Network Security course unit at FCUP.
 
 &nbsp;
 
@@ -27,6 +27,12 @@ Projects for the RD course unit at FCUP.
 ## Milestones
 
 <TODO>
+
+
+[ ] Presentation 1](https://docs.google.com/presentation/d/1bV6BABO7-MhZk7i1IW7vt3hNjH0W21-OuUw-f5moAbs/edit?usp=sharing)
+[ ] [Assignment 1](https://pt.overleaf.com/2881939533pdnsfhfwphkg#759402)
+[ ] [Presentation 2]()
+[ ] [Assignment 2]()
 
 &nbsp;
 
